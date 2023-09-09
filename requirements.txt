@@ -4,3 +4,4 @@ numpy==1.24.1
 scikit-learn==1.2.0
 keras==2.11.0
 tensorflow==2.11.0
+matplotliv==3.6.2
