@@ -2,4 +2,4 @@ streamlit==1.21.0
 pandas==1.5.2
 mathplotlib==3.6.2
 numpy==1.24.1
-scikit-learn==1.2.0
+sklearn==1.2.0
