@@ -548,8 +548,8 @@ def predict_page_30():
 
     # Split the data into train and test sets
     values = reframed.values
-    train_size = 348
-    val_size = 464
+    train_size = 1802
+    val_size = 2403
     train = values[:train_size, :]
     val = values[train_size:val_size, :]
     test = values[val_size:, :]
